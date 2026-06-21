@@ -64,11 +64,7 @@ Voir le fichier [`INSTALL_FFMPEG.md`](./INSTALL_FFMPEG.md) pour les instructions
 
 ---
 
-## 📸 Aperçu
 
-*(Ajoutez une capture d'écran ici)*
-
----
 
 ## 📄 Licence
 
@@ -86,4 +82,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 👤 Auteur
 
-Votre Nom (@votre-pseudo)
+Votre Nom (@MohceneAmoura)
