@@ -1,0 +1,30 @@
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers système Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Vidéos temporaires
+temp_video.mp4
+temp_audio.mp4
+
+# Dossiers de téléchargement
+Downloads/
+downloads/
