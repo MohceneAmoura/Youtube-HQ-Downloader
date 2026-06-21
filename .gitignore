@@ -28,3 +28,11 @@ temp_audio.mp4
 # Dossiers de téléchargement
 Downloads/
 downloads/
+
+# Fichiers PyInstaller (build/dist)
+build/
+dist/
+*.spec
+
+# Fichiers exécutables
+*.exe
